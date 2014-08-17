@@ -1,0 +1,31 @@
+plymouth-theme-edusantara (0.4+edusantara1) anambas; urgency=medium
+
+  * New upstream release
+  * Edusantra Logo
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 Aug 2014 16:03:48 +0700
+
+plymouth-theme-blankon (0.4) suroboyo; urgency=medium
+
+  * Added default.grub to make grub style
+
+ -- Mahyuddi Idram Ahmad <dotovr@di.blankon.in>  Wed, 08 Jan 2014 02:51:28 +0700
+
+plymouth-theme-blankon (0.3) suroboyo; urgency=low
+
+  * debian/postinst:
+    - Fix update-initramfs
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Wed, 26 Jun 2013 08:04:14 +0700
+
+plymouth-theme-blankon (0.2) suroboyo; urgency=low
+
+  * Fix script
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Mon, 24 Jun 2013 16:00:09 +0700
+
+plymouth-theme-blankon (0.1) suroboyo; urgency=low
+
+  * First release
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Sat, 15 Jun 2013 23:06:35 +0700
