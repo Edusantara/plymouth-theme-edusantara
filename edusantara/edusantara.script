@@ -300,7 +300,7 @@ progress_bar.sprite.SetPosition(progress_bar.x, progress_bar.y, 3);
 
 fun progress_callback (duration, progress)
   {
-    progress = (progress * 100) / 70;   ####### default panjang progress : 27
+    progress = (progress * 100) / 27;   ####### default panjang progress : 27
     global.progress = progress;
     if (progress_bar.image.GetWidth () != Math.Int (progress_bar.original_image.GetWidth () * progress))
       {

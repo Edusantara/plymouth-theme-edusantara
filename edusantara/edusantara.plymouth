@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Tambora
+Name=Edusantara
 Description=A theme that features a color-cycled background ala Windows.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/tambora
-ScriptFile=/usr/share/plymouth/themes/tambora/tambora.script
+ImageDir=/usr/share/plymouth/themes/edusantara
+ScriptFile=/usr/share/plymouth/themes/edusantara/edusantara.script
